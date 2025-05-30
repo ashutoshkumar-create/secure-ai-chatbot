@@ -1,2 +1,3 @@
-libgfortran5
+libgomp1
 libopenblas-dev
+libgfortran5

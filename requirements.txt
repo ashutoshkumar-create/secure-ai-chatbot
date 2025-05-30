@@ -2,7 +2,7 @@
 streamlit==1.32.0
 google-generativeai==0.5.0
 e2b==0.10.1
-pandas==2.2.1
+pandas>=2.2.3  # Updated version
 openpyxl==3.1.2
 matplotlib==3.8.3
 scipy==1.12.0
