@@ -1,5 +1,4 @@
 --only-binary=:all:
-numpy
 scipy
 streamlit==1.32.0
 google-generativeai==0.5.0
